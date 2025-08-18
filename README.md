@@ -13,10 +13,9 @@
 ## 🎯 About Me
 
 🔭 **Currently Working On:** Advanced ML models for real-world applications  
-🌱 **Learning:** Deep Learning, MLOps, and Cloud Technologies  
+🌱 **Learning:** Deep Learning, MLOps,  
 💡 **Passionate About:** Turning data into actionable insights  
-🎓 **Education:** IMCA at Acropolis Institute of Research and Technology  
-📍 **Location:** Indore, Madhya Pradesh, India  
+ 📍 **Location:** Indore, Madhya Pradesh, India  
 
 ---
 
@@ -34,7 +33,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+
 
 ### Tools & Technologies
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -83,7 +82,7 @@
 
 🎖️ **Data Science Certificate** - Simplilearn (2024)  
 ⭐ **HackerRank 4★ Python** - Problem Solving Excellence  
-🎯 **Machine Learning Specialization** - Advanced Algorithms  
+
 
 ---
 
